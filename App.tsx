@@ -214,13 +214,13 @@ const App: React.FC = () => {
 
         {/* Exclusive Content Cards */}
         <div className="w-full flex flex-col mb-4">
-          <ContentCard 
-            href="#"
+          <ContentCard
+            href="https://t.me/Maya_Privee_bot"
             label="Tô Online "
             title="Me chama no Privado..."
             emoji="👀"
           />
-          <ContentCard 
+          <ContentCard
             href="#"
             label="CONTEÚDO COMPLETO"
             title="0nlyf4ns"
