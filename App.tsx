@@ -131,8 +131,8 @@ const App: React.FC = () => {
         
         {/* Profile Circle Top Right */}
         <div className="absolute top-4 right-6 z-30">
-          <div className="w-9 h-9 bg-white/10 backdrop-blur-md rounded-full flex items-center justify-center border border-white/5 shadow-lg transition-all active:scale-95">
-            <User className="w-5 h-5 text-white/90" />
+          <div className="w-9 h-9 bg-white/10 backdrop-blur-md rounded-full overflow-hidden flex items-center justify-center border border-white/15 shadow-lg transition-all active:scale-95">
+            <img src="/favicon.png" alt="Profile" className="w-full h-full object-cover scale-110" />
           </div>
         </div>
 
@@ -145,7 +145,6 @@ const App: React.FC = () => {
           />
           <div className="absolute top-0 left-0 w-full h-32 bg-gradient-to-b from-[#0d1117]/60 to-transparent"></div>
           
-          {/* Sombra inferior restaurada ao estilo original (mais alta e intensa) */}
           <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#0d1117] from-20% via-[#0d1117]/85 via-60% to-transparent pt-64 pb-8 px-6 flex flex-col items-center text-center">
             
             <div className="flex items-center gap-1.5 mb-1.5">
