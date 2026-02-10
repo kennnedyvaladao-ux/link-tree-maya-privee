@@ -171,8 +171,8 @@ const App: React.FC = () => {
                 glowClass="glow-tiktok"
                 icon={<TikTokIcon className="w-6 h-6" />}
               />
-              <SocialIcon 
-                href="#"
+              <SocialIcon
+                href="https://t.me/Maya_Privee_bot"
                 ariaLabel="Telegram"
                 bgClass="bg-[#0088CC]"
                 glowClass="glow-telegram"
