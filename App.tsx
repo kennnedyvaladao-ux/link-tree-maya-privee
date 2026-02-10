@@ -221,7 +221,7 @@ const App: React.FC = () => {
             emoji="👀"
           />
           <ContentCard
-            href="#"
+            href="https://maya-vip.vercel.app/"
             label="CONTEÚDO COMPLETO"
             title="0nlyf4ns"
             emoji="💎"
