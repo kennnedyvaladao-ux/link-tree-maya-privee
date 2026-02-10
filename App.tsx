@@ -157,8 +157,8 @@ const App: React.FC = () => {
             <p className="text-zinc-500 text-[15px] font-medium mb-8">@maya_reserve</p>
             
             <div className="flex items-center gap-4">
-              <SocialIcon 
-                href="#"
+              <SocialIcon
+                href="https://www.instagram.com/maya.reserve_?igsh=Y2gxajZtN3M0MTM3&utm_source=qr"
                 ariaLabel="Instagram"
                 bgClass="instagram-gradient"
                 glowClass="glow-insta"
